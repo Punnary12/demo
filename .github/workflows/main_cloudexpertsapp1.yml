@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'cloudexpertsapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAE607623F22493CA6D1F04E4647E273 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_702CBDAD2AEB4E73A613756AC5B276D0 }}
           package: .
